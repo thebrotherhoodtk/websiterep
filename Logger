@@ -7,3 +7,5 @@ web.config.txt removed
 readme.txt removed
 license.txt removed
 END
+
+set.change(varchar)
