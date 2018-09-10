@@ -1,2 +1,0 @@
-# websiterep
-Security/Change log
