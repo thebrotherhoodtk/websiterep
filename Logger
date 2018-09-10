@@ -1,6 +1,8 @@
 # websiterep
 # Website security / Change logger
 
+JOOMLA! installed
+
 Entity.change();
 htaccess.txt removed
 web.config.txt removed
