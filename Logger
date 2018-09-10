@@ -9,3 +9,10 @@ license.txt removed
 END
 
 set.change(varchar)
+
+UPDATE SECURITY:
+
+arch.change();
+
+FTP user 'brad' created
+FTP user 'fresh' created
